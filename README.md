@@ -1,0 +1,1 @@
+# Smart-sorting-transfer-leaning-for-identifying-rotten-fruits-and-vegetables-
